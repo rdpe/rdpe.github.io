@@ -1,2 +1,5 @@
 # rdpe.github.io
-OS/2 Development using Software Modeling
+
+This repository contains the web-pages for this site
+
+See: [http://rdpe.github.io](http://rdpe.github.io)
